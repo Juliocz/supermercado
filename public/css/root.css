@@ -1,0 +1,41 @@
+/*:root {
+
+    --colorTheme: #FFFFFF;
+
+    --colorThemeBg1: #272c4a;
+    --colorThemeBg1Shadow: #090a1f;
+    --colorThemeBg2: #1e1f3d;
+    --colorThemeBg2Light: #3c457d;
+    --colorThemeBg3: #2f3767;
+    --colorThemeBg3Light: #4f5a9c;
+
+    --colorThemeSuccess: #64c4a8;
+    --colorThemeDanger: #8e2b4a;
+    --colorThemeSubtitule: #40497c;
+}*/
+/*constrast*/
+:root {
+
+    --colorTheme: #FFFFFF;
+
+    --colorThemeBg1: #15193b;
+    --colorThemeBg1Shadow: #00040f;
+    --colorThemeBg2: #0e0e2b;
+    --colorThemeBg2Light: #3c457d;
+    --colorThemeBg3: #1c2565;
+    --colorThemeBg3Light: #4f5a9c;
+
+    --colorThemeSuccess: #38ad8a;
+    --colorThemeSuccessLight: #3addac;
+    --colorThemeDanger: #aa193b;
+    --colorThemeDangerLight: #e22551;
+    --colorThemeAlert: #aa9c19;
+    --colorThemeAlertLight: #d8c51d;
+    --colorThemeSubtitule: #40497c;
+
+    --miniPaddingAndGrap:5px;
+
+
+
+    
+}
